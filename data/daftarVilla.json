@@ -1,0 +1,86 @@
+[
+  {
+    "id": "v1",
+    "nama": "Villa Ocean View",
+    "harga": "Rp 2.500.000",
+    "deskripsi": "Pemandangan laut lepas dengan kolam renang pribadi.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=500"
+  },
+  {
+    "id": "v2",
+    "nama": "Mountain Breeze",
+    "harga": "Rp 1.800.000",
+    "deskripsi": "Udara sejuk pegunungan dengan interior kayu yang hangat.",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=500"
+  },
+  {
+    "id": "v3",
+    "nama": "Sunset Paradise",
+    "harga": "Rp 2.200.000",
+    "deskripsi": "Nikmati sunset indah langsung dari balkon villa.",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=500"
+  },
+  {
+    "id": "v4",
+    "nama": "Forest Retreat",
+    "harga": "Rp 1.600.000",
+    "deskripsi": "Villa di tengah hutan dengan suasana tenang dan alami.",
+    "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=500"
+  },
+  {
+    "id": "v5",
+    "nama": "Lakeview Haven",
+    "harga": "Rp 2.000.000",
+    "deskripsi": "Pemandangan danau yang menenangkan dari kamar utama.",
+    "image": "https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9?q=80&w=500"
+  },
+  {
+    "id": "v6",
+    "nama": "Tropical Escape",
+    "harga": "Rp 1.900.000",
+    "deskripsi": "Dikelilingi taman tropis dan kolam renang outdoor.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=500"
+  },
+  {
+    "id": "v7",
+    "nama": "Cliffside Villa",
+    "harga": "Rp 3.000.000",
+    "deskripsi": "Villa di tepi tebing dengan view laut yang spektakuler.",
+    "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=500"
+  },
+  {
+    "id": "v8",
+    "nama": "Modern Minimalist Villa",
+    "harga": "Rp 2.100.000",
+    "deskripsi": "Desain modern minimalis dengan fasilitas lengkap.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=500"
+  },
+  {
+    "id": "v9",
+    "nama": "Ricefield Serenity",
+    "harga": "Rp 1.700.000",
+    "deskripsi": "Pemandangan sawah hijau yang menenangkan.",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=500"
+  },
+  {
+    "id": "v10",
+    "nama": "Luxury Sky Villa",
+    "harga": "Rp 3.500.000",
+    "deskripsi": "Villa mewah dengan rooftop dan jacuzzi pribadi.",
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=500"
+  },
+  {
+    "id": "v11",
+    "nama": "Cozy Garden Villa",
+    "harga": "Rp 1.500.000",
+    "deskripsi": "Villa kecil nyaman dengan taman bunga yang cantik.",
+    "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=500"
+  },
+  {
+    "id": "v12",
+    "nama": "Beachfront Bliss",
+    "harga": "Rp 2.800.000",
+    "deskripsi": "Langsung akses ke pantai dari halaman villa.",
+    "image": "https://images.unsplash.com/photo-1692736933760-8a8a9b8c1b6f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
